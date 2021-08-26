@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ak774411
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning react.js
+- 🌱 I’m big fan of Javascript>< Hate php=.=
 - 💞️ I’m looking to collaborate on nodejs project
 - 📫 You can call me through my email michael@chengyuenming.com
 
